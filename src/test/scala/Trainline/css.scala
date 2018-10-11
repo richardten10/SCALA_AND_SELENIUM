@@ -8,7 +8,6 @@ object css {
   val closePopUp: String = "._ycrncc"
   val timetable: String = "._1ur94glf span"
   val oneWayBox: String = "[for='single'] [type]"
-//  val pageTitle: String = "._ycrncc"
 
 
 }
